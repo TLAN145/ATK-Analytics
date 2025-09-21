@@ -72,5 +72,5 @@ Top-selling product categories
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/yourusername/olist-project.git
-cd olist-project
+git clone (https://github.com/TLAN145/ATK-Analytics.git)
+cd ATK-Analytics
